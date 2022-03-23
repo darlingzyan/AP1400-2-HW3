@@ -1,0 +1,5 @@
+# 忽略 Visual Studio 临时文件和缓存
+.vs/
+out/
+bin/
+obj/
